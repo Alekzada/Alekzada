@@ -5,7 +5,7 @@
 
 # 𝚀𝚄𝙸𝚃 𝚃𝙷𝙴 𝚆𝚇𝚁𝙻𝙳
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=900&color=E6EDF3&center=true&vCenter=true&width=800&lines=Backend+Engineer;Java+%7C+Spring+Boot;PostgreSQL;Building+modern+web+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=900&color=E6EDF3&center=true&vCenter=true&width=800&lines=FullStack;Java+%7C+Spring+Boot;PostgreSQL;Building+modern+web+systems" />
 
 ---
 
