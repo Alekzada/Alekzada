@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/U3o4KRM2K6AAAAAd/anime-rain.gif" width="100%" />
 
 <br><br>
 
@@ -8,9 +7,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=900&color=E6EDF3&center=true&vCenter=true&width=800&lines=Backend+Engineer;Java+%7C+Spring+Boot;PostgreSQL;Building+modern+web+systems" />
 
+---
+
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,html,css,js,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,bootstrap,angular,js,docker,git,intellij" />
 
 </div>
 
@@ -25,6 +26,8 @@ performance • clean architecture • scalable systems
 </div>
 
 ---
+
+<div>
 
 # about_me.java
 
@@ -47,25 +50,18 @@ public class Alekzada {
 }
 ```
 
----
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alekzada&show_icons=true&theme=transparent&hide_border=true&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alekzada&layout=compact&theme=transparent&hide_border=true&title_color=E6EDF3&text_color=8B949E"/>
-
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alekzada&bg_color=0d1117&color=E6EDF3&line=58A6FF&point=8B949E&hide_border=true"/>
-
+<a href="mailto:alexisvinicius89@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+<a href="https://linkedin.com/in/alexis-molica-6a07ba3a6/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 </div>
 
 ---
+
+<div>
 
 # terminal.log
 
@@ -85,6 +81,7 @@ Architecture:           Clean & Scalable
 [OK] Services running
 [WARN] Sleep schedule corrupted
 ```
+</div>
 
 ---
 
