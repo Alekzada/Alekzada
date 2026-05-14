@@ -93,3 +93,9 @@ Architecture:           Clean & Scalable
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f1f1f&height=120&section=footer"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Alekzada/Alekzada/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
