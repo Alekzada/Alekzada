@@ -21,10 +21,10 @@
 > apaixonado por arquitetura e performance
 ```
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,linux" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,postgresql,git,github,vscode,intellij" /> </p>
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alekzada&show_icons=true&theme=transparent&hide_border=true&title_color=8B949E&text_color=C9D1D9&icon_color=58A6FF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alekzada&layout=compact&theme=transparent&hide_border=true&title_color=8B949E&text_color=C9D1D9"/> </div>
 
-<p align="center"> <a href="mailto:seuemail@gmail.com"> <img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p> ```
+<p align="center"> <a href="mailto:alexismolica.6a@hotmail.com"> <img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="[https://linkedin.com](https://www.linkedin.com/in/alexis-molica-6a07ba3a6/)"> <img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p> ```
 
-![snake gif](https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Alekzada/Alekzada/blob/output/github-contribution-grid-snake-dark.svg)
