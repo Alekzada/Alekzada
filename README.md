@@ -55,9 +55,11 @@ public class Alekzada {
 ---
 
 <div align="center">
-<a href="mailto:alexisvinicius89@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-<a href="https://linkedin.com/in/alexis-molica-6a07ba3a6/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-<a href="https://www.instagram.com/quit.the.wxrld/"><img src=https://skillicons.dev/icons?i=instagram" height="45"/></a>
+<a href="mailto:seuemail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/seulinkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/seuinstagram"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
 </div>
 
 ---
