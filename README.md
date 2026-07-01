@@ -34,19 +34,18 @@ performance • clean architecture • scalable systems
 ```java
 public class Alekzada {
 
-    String role = "Backend Engineer";
+    String role = "Software Engineering Student";
 
-    String[] stack = {
+    String[] studying = {
         "Java",
         "Spring Boot",
         "PostgreSQL",
         "JavaScript",
-        "HTML",
-        "CSS"
+        "DevOps"
     };
 
-    String focus =
-        "Building scalable and well-structured systems.";
+    String goal =
+        "Passionate about backend development, full stack applications, and continuously learning to build scalable and maintainable software.";
 }
 ```
 
